@@ -5,6 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbshadow" alt="rbshadow" /></a> </p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rbshadow&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&locale=en" alt="rbshadow" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbshadow&langs_count=6&show_icons=true&count_private=true" alt="rbshadow" /></p>
 
 - 🔗 My Website [https://rbshadow.github.io](https://rbshadow.github.io)
 
@@ -16,7 +17,7 @@
 
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbshadow&langs_count=6&show_icons=true&count_private=true" alt="rbshadow" /></p>
+
 
 <h3 align="left">Open Source:</h3>
 <p align="left">
