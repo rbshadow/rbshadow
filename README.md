@@ -6,14 +6,14 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rbshadow&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&locale=en" alt="rbshadow" /></p>
 
-- 🔗 My Website [https://www.rbshadow.github.io](https://www.rbshadow.github.io)
+- 🔗 My Website [https://rbshadow.github.io](https://rbshadow.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rbshadow96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rbshadow" height="30" width="40" /></a>
 <a href="https://fb.com/rbshadow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rbshadow" height="30" width="40" /></a>
 <a href="https://instagram.com/rbshadow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rbshadow" height="30" width="40" /></a>
-<a href="mailto:rbshadow96@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="rbshadow96@gmail.com" height="30" width="40" /></a> 
+
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbshadow&langs_count=6&show_icons=true&count_private=true" alt="rbshadow" /></p>
@@ -40,7 +40,6 @@
 
 
 <!--
-**rbshadow/rbshadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
