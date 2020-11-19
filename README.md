@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbshadow&langs_count=6&show_icons=true&count_private=true" alt="rbshadow" /></p>
 
 
-<h3 align="left">Open Source:</h3>
+<h3 align="center">Open Source:</h3>
 <p align="left">
   
   - <a href="https://github.com/rbshadow/Student-Management-System" target="_blank">Student-Management-System</a>
